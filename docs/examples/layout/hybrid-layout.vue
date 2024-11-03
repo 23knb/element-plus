@@ -1,6 +1,7 @@
 <template>
   <el-row :gutter="20">
     <el-col :span="16"><div class="grid-content ep-bg-purple" /></el-col>
+    <img src="C:\Users\佘佳伟\Desktop\证件照\佘佳伟.jpg">
     <el-col :span="8"><div class="grid-content ep-bg-purple" /></el-col>
   </el-row>
   <el-row :gutter="20">
